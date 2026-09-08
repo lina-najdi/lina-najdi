@@ -77,6 +77,20 @@
 
 ---
 
+### 🎾 Graduation Project: Mesbar
+AI-Powered Padel Talent Discovery
+
+> **Awarded 1st Place** at the Software Engineering Projects in Ejaz Exhibition (Dec 2025) • *In collaboration with the Ministry of Sports*
+
+**Misbar** is a full-stack, AI-driven sports analytics and talent-scouting platform built to objectively evaluate, rank, and connect Padel athletes with professional clubs across Saudi Arabia.
+
+* **Role:**  Full Stack Developer
+* **Core Tech:** Python, Computer Vision (YOLO, TrackNet, Pose Estimation), RESTful APIs, Relational Database Modeling, Agile Workflow
+* **Key Architectural Contributions:**
+  * Led end-to-end technical system design, schema modeling, and service architecture.
+  * Architected multi-role authentication workflows and dashboards for players, coaches, and sports club recruiters.
+  * Implemented structured API interfaces bridging AI analysis engines with real-time UI data visualization.
+---
 ### 📊 GitHub Activity
 
 <div align="center">
